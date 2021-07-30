@@ -1,0 +1,48 @@
+{
+    "transparency16": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true
+    },
+    "级别3": {
+        "id": "级别3",
+        "mimeType": "application/mkcd-tilemap",
+        "data": "MTAxNDAwMTkwMDAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTA4MDcwNzA3MDcwNzA3MDcwNzA3MDcwNzA3MDcwNzA3MDcwOTAxMDEwNTBjMGIwZDAyMDIwMjAyMDIwMjAyMDIwMjAyMDIwMjAyMDMwMTAxMDUwMjAyMDIwMjE4MDIwMjAyMDIwMjAyMDIwMjAyMDIwMjAzMDEwMTA1MDIwMjAyMDIwMjAyMGMwYjBkMDIwMjE1MTUxNjAyMTgwMzAxMDEwNTE4MDIwMjAyMDIwMjA0MDQwNDAyMDIxMDE0MTEwMjAyMDMwMTAxMDUwMjAyMGMwYjBkMDMwZjBmMGYwNTAyMTIxNzEzMDIwMjAzMDEwMTA1MDIwMjAyMDIwMjAzMGYwZTBmMDUwMjBjMGIwZDAyMDIwMzAxMDEwNTAyMDIwMjAyMTgwMzBmMGYwZjA1MDIwMjAyMDIwMjAyMDMwMTAxMDUwMjAyMDIwMjAyMDIwNzA3MDcwMjAyMDIwMjAyMDIwMjAzMDEwMTA1MTUxNTE2MDIwMjAyMDIwMjAyMDIwYzBiMGQwMjAyMDIwMzAxMDEwNTEwMTQxMTAyMDIwMjAyMDIwMjAyMDIwMjAyMTUxNTE2MDMwMTAxMDUxMjE3MTMwYzBiMGQwMjE4MDIwMjAyMDIwMjEwMTQxMTAzMDEwMTA1MDIwMjAyMDIwMjAyMDIwMjAyMDIwMjE4MDIxMjE3MTMwMzAxMDEwNjA0MDQwNDA0MDQwNDAyMDIwMjAyMDQwNDA0MDQwNDA0MGEwMTAxMDEwMTAxMDEwMTAxMDEwNTFhMWEwMzAxMDEwMTAxMDEwMTAxMDEwMDAwMDAwMDAwMDAwMDAxMDUxYjFiMDMwMTAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMTA1MWIxYjAzMDEwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDEwNTFiMWEwMzAxMDAwMDAwMDAwMDAwMDAwMDAwMDEwMTAxMDEwMTAxMDUxYjFiMDMwMTAxMDEwMTAxMDEwMDAwMDAwMDAxMDgwNzA3MDcwNzAyMWIxYTAyMDcwNzA3MDcwOTAxMDAwMDAwMDAwMTA1MWExYjBjMGIwZDFiMTkxYjFhMWIxYTFiMDMwMTAwMDAwMDAwMDEwNTFhMWIxOTFhMWIxYTFiMWEwYzBiMGQxYTAzMDEwMDAwMDAwMDAxMDYwNDA0MDQwNDA0MDQwNDA0MDQwNDA0MDQwYTAxMDAwMDAwMDAwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAwMDAyMjIyMjIyMjIyMjIyMjIyMjIyMjAyMDAwMDAwMDAwMDAwMDAwMDIwMDIwMDAwMDAwMDAwMDAwMDAwMjAwMjAwMDAwMDAwMDAwMDAwMDAyMDAyMDAwMDAwMDAwMDIwMjIwMDIwMDIwMDAwMDAwMDAwMjAyMjAwMjAwMjAwMDAwMDAwMDAyMDIwMDAyMDAyMDAwMDAwMDAwMDAwMDAwMDIwMDIwMDAwMDAwMDAwMDAwMDAwMjAwMjAwMDAwMDAwMDAwMDAwMDAyMDAyMjIwMjAwMDAwMDAwMDAwMDIwMDIyMjAyMDAwMDAwMDAyMDIyMjAwMjAyMDIwMDAwMDAwMDIwMjIyMDAyMDAwMDAwMDAwMDAwMjAyMDIwMDIwMDAwMDAwMDAwMDAwMDAwMjAyMjIyMjIyMjAwMDAyMjIyMjIyMjAwMDAwMDIwMDAwMDAyMDAwMDAwMDAwMDAwMjAwMDAwMDIwMDAwMDAwMDAwMDAyMDAwMDAwMjAwMDAwMDAwMjIyMjIyMDAwMDIyMjIyMjAwMDAwMjAwMDAwMDAwMDAwMDIwMDAwMDAyMDAwMDAwMDAwMDAwMjAwMDAwMDIwMDAwMDAwMDAwMDAyMDAwMDAwMjAwMDAwMDAwMDAwMDIwMDAwMDIyMjIyMjIyMjIyMjIyMjIwMA==",
+        "tileset": [
+            "myTiles.transparency16",
+            "sprites.castle.rock0",
+            "sprites.castle.tilePath5",
+            "sprites.castle.tilePath6",
+            "sprites.castle.tilePath8",
+            "sprites.castle.tilePath4",
+            "sprites.castle.tilePath7",
+            "sprites.castle.tilePath2",
+            "sprites.castle.tilePath1",
+            "sprites.castle.tilePath3",
+            "sprites.castle.tilePath9",
+            "sprites.swamp.swampTile1",
+            "sprites.swamp.swampTile0",
+            "sprites.swamp.swampTile2",
+            "sprites.castle.tileGrass2",
+            "sprites.castle.tileGrass1",
+            "sprites.builtin.forestTiles5",
+            "sprites.builtin.forestTiles7",
+            "sprites.builtin.forestTiles13",
+            "sprites.builtin.forestTiles15",
+            "sprites.builtin.forestTiles6",
+            "sprites.builtin.forestTiles1",
+            "sprites.builtin.forestTiles3",
+            "sprites.builtin.forestTiles14",
+            "sprites.castle.saplingPine",
+            "sprites.castle.tileDarkGrass2",
+            "sprites.castle.tileDarkGrass1",
+            "sprites.castle.tileDarkGrass3"
+        ],
+        "displayName": "DangerousSwamp"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myTiles"
+    }
+}
